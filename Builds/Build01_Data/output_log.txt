@@ -1,0 +1,40 @@
+Mono path[0] = 'D:/Unity projects/ZalieN Shooter/Builds/Build001_Data/Managed'
+Mono path[1] = 'D:/Unity projects/ZalieN Shooter/Builds/Build001_Data/Mono'
+Mono config path = 'D:/Unity projects/ZalieN Shooter/Builds/Build001_Data/Mono/etc'
+PlayerConnection initialized from D:/Unity projects/ZalieN Shooter/Builds/Build001_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55416
+Multi-casting "[IP] 192.168.0.102 [Port] 55416 [Flags] 2 [Guid] 2085975648 [EditorId] 2074800163 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-4RL8OGK) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55416]
+PlayerConnection already initialized - listening to [0.0.0.0:55416]
+Player data archive not found at `D:/Unity projects/ZalieN Shooter/Builds/Build001_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1130 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Unity projects\ZalieN Shooter\Builds\Build001_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.474117 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2568 -> priority: 1 
+  Thread -> id: 27a8 -> priority: 1 
